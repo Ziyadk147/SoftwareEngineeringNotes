@@ -46,3 +46,17 @@ Is a Scalable System so that a large Number of user dont crash the systems
 
 Q7) Issues that affect Software
 Some of the Issues are as follows
+
+1)Software are not able to adapt to all common Devices and Operating Systems
+2)As Society and Business changes, the software dont  have the ability to be highly configurable or easy to change
+3) Software are not Secure 
+4)Software are not scalable meaning they will crash if high number of users interact at the same time
+
+
+Q8)Software Engineering Fundamentals, managed Development Process , Dependability , Specification and Requirements ,Software Re-use
+ans
+Software Engineering Fundamentals include the following points
+Managed Development Process: Software should be developed according to some standard processes to minimize bottlenecks and errors
+Dependability: Software should be Dependable and should be perfomant for all devices or all users
+Specification and Requirements: Software should be developed by asking and discussing the requirements and specifications from the stakeholders
+Re-Use: Software should be able to be re used instead of writing it up again
